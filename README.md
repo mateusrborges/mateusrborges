@@ -2,8 +2,9 @@
   
   <h1 align="center">
       <img width="67" height="67" src="https://img.icons8.com/?size=100&id=QI0Dtwd6iPqW&format=png&color=000000" git/>
-      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&pause=1000&color=FFEE0A&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Mateus+Borges" />
-      <img width="67" height="67" src="https://img.icons8.com/?size=100&id=35734&format=png&color=000000" />
+      &nbsp; &nbsp; &nbsp;
+      <img src=" https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&pause=1000&color=FFEE0A&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Mateus+Borges"/>
+      <img width="67" height="67" src="https://img.icons8.com/?size=100&id=35734&format=png&color=000000"/>
   </h1>
   
   <div id="badges">
@@ -30,7 +31,7 @@
   <br/>
   💡 Focado em aprimorar minhas habilidades em análise de dados e otimização de código.
   <br/>
-  📬 Entre em contato: <b>mateusborges544@outlook.com</b>
+  
 </div>
 
  </div>
@@ -42,7 +43,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,django" /><br>
   
-  <img src="https://skillicons.dev/icons?i=vscode,colab,pandas,sql,gcp" />
+  <img src="https://skillicons.dev/icons?i=vscode,colab,pandas,mysql,gcp" />
 </div>
 
 <br/>
